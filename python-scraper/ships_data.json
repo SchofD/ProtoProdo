@@ -1,0 +1,1354 @@
+[
+    {
+        "Ship Name": "Acclamator-II",
+        "imageFilename": "AcclamatorII.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Greater Maldrood"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "10",
+        "Kosten": "2100",
+        "Bauzeit": "40 s",
+        "Besatzung": "10",
+        "Energieschild": "1800",
+        "Trefferpunkte": "2310",
+        "Geschwindigkeit": "4.25",
+        "Bewaffnung": [
+            "4 Quad Light Turbolasers",
+            "1 Proton Torpedo Launcher"
+        ]
+    },
+    {
+        "Ship Name": "Adz Patrol Destroyer",
+        "imageFilename": "Adz.webp",
+        "Fraktion": [
+            "Eriadu Authority",
+            "Greater Maldrood",
+            "Pentastar Alignment",
+            "Zsinj's Empire"
+        ],
+        "Funktion": "Corvette",
+        "Pop Verbrauch": "2",
+        "Kosten": "400",
+        "Bauzeit": "20 s",
+        "Besatzung": "1",
+        "Energieschild": "700",
+        "Trefferpunkte": "800",
+        "Geschwindigkeit": "5.0",
+        "Bewaffnung": [
+            "3 Single Light AF Ion Cannons",
+            "3 Quad Rapid Medium Laser Cannons",
+            "Point-Defense System"
+        ]
+    },
+    {
+        "Ship Name": "Allegiance Battlecruiser",
+        "imageFilename": "Allegiance.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Eriadu Authority"
+        ],
+        "Funktion": "Battlecruiser",
+        "Pop Verbrauch": "62",
+        "Kosten": "12500",
+        "Bauzeit": "240 s",
+        "Besatzung": "50",
+        "Energieschild": "16000",
+        "Trefferpunkte": "18778",
+        "Geschwindigkeit": "3.0",
+        "Bewaffnung": [
+            "6 Quad Heavy Turbolasers",
+            "17 Quad Light Turbolasers",
+            "3 Single Heavy Ion Cannons",
+            "2 Quad Medium Ion Cannons",
+            "4 Triple Medium Ion Cannons",
+            "8 Dual Light Laser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Arquitens Light Cruiser",
+        "imageFilename": "Arquitens.webp",
+        "Fraktion": [
+            "Eriadu Authority"
+        ],
+        "Funktion": "Light Frigate",
+        "Pop Verbrauch": "4",
+        "Kosten": "800",
+        "Bauzeit": "20 s",
+        "Besatzung": "5",
+        "Energieschild": "1000",
+        "Trefferpunkte": "1100",
+        "Geschwindigkeit": "4.5",
+        "Bewaffnung": [
+            "2 Concussion Missiles",
+            "2 Dual Medium Turbolasers",
+            "2 Quad Medium Laser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Ascendancy Star Destroyer",
+        "imageFilename": "AscendancySD.webp",
+        "Fraktion": [
+            "Empire of the Hand"
+        ],
+        "Funktion": "Capital",
+        "Pop Verbrauch": "25",
+        "Kosten": "5000",
+        "Bauzeit": "80 s",
+        "Besatzung": "25",
+        "Energieschild": "4800",
+        "Trefferpunkte": "4350",
+        "Geschwindigkeit": "3.0",
+        "Bewaffnung": [
+            "2 Medium Quad Megamasers",
+            "4 Medium Megamasers",
+            "2 Medium Dual Ion Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Assault Frigate-I",
+        "imageFilename": "Assault_Frigate_I.webp",
+        "Fraktion": [
+            "New Republic"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "9",
+        "Kosten": "1750",
+        "Bauzeit": "30 s",
+        "Besatzung": "5",
+        "Energieschild": "2400",
+        "Trefferpunkte": "2120",
+        "Geschwindigkeit": "4.0",
+        "Bewaffnung": [
+            "2 Single Heavy Turbolasers",
+            "2 Single Light Turbolasers",
+            "2 Quad Medium Laser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Bellator Star Dreadnought",
+        "imageFilename": "Bellator.webp",
+        "Fraktion": [
+            "Eriadu Authority",
+            "Greater Maldrood"
+        ],
+        "Funktion": "Dreadnought",
+        "Pop Verbrauch": "130",
+        "Kosten": "27000",
+        "Bauzeit": "360 s",
+        "Besatzung": "150",
+        "Energieschild": "39000",
+        "Trefferpunkte": "39950",
+        "Geschwindigkeit": "2.6",
+        "Bewaffnung": [
+            "5 Assault Concussion Missile Launcher",
+            "6 Concussion Missile Launcher",
+            "11 Ultraheavy Turbolasers",
+            "23 Quad Heavy Turbolasers",
+            "14 Single Medium Turbolasers",
+            "8 Octuple Light Turbolasers",
+            "7 Quad Heavy Ion Cannons",
+            "14 Quad Light Laser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Bothan Assault Cruiser",
+        "imageFilename": "BAC.webp",
+        "Fraktion": [
+            "New Republic"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "19",
+        "Kosten": "3600",
+        "Bauzeit": "100 s",
+        "Besatzung": "15",
+        "Energieschild": "3500",
+        "Trefferpunkte": "4080",
+        "Geschwindigkeit": "3.0",
+        "Bewaffnung": [
+            "2 Proton Torpedo Launchers",
+            "4 Dual Heavy Turbolasers",
+            "2 Single Medium Turbolasers",
+            "2 Single Medium Ion Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Bulwark-I Battlecruiser",
+        "imageFilename": "Bulwark1.webp",
+        "Fraktion": [
+            "Corporate Sector Authority"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "16",
+        "Kosten": "3300",
+        "Bauzeit": "80 s",
+        "Besatzung": "10",
+        "Energieschild": "4000",
+        "Trefferpunkte": "3540",
+        "Geschwindigkeit": "3.0",
+        "Bewaffnung": [
+            "6 Single Heavy Turbolasers",
+            "4 Single Heavy Ion Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Bulwark-II Battlecruiser",
+        "imageFilename": "Bulwark2.webp",
+        "Fraktion": [
+            "Corporate Sector Authority"
+        ],
+        "Funktion": "Capital",
+        "Pop Verbrauch": "30",
+        "Kosten": "6000",
+        "Bauzeit": "160 s",
+        "Besatzung": "30",
+        "Energieschild": "8000",
+        "Trefferpunkte": "7875",
+        "Geschwindigkeit": "2.0",
+        "Bewaffnung": [
+            "12 Single Heavy Turbolasers",
+            "6 Single Heavy Ion Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Bulwark-III Battlecruiser",
+        "imageFilename": "Bulwark3.webp",
+        "Fraktion": [
+            "New Republic",
+            "Corporate Sector Authority"
+        ],
+        "Funktion": "Battlecruiser",
+        "Pop Verbrauch": "52",
+        "Kosten": "11000",
+        "Bauzeit": "240 s",
+        "Besatzung": "40",
+        "Energieschild": "20000",
+        "Trefferpunkte": "19800",
+        "Geschwindigkeit": "1.5",
+        "Bewaffnung": [
+            "19 Single Heavy Turbolasers",
+            "8 Single Heavy Ion Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Carrack Cruiser",
+        "imageFilename": "Carrack.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Greater Maldrood"
+        ],
+        "Funktion": "Light Frigate",
+        "Pop Verbrauch": "5",
+        "Kosten": "1100",
+        "Bauzeit": "20 s",
+        "Besatzung": "5",
+        "Energieschild": "1400",
+        "Trefferpunkte": "1400",
+        "Geschwindigkeit": "4.0",
+        "Bewaffnung": [
+            "2 Single Heavy Turbolasers",
+            "2 Single Light Ion Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Chaf Destroyer",
+        "imageFilename": "Chaf.webp",
+        "Fraktion": [
+            "Empire of the Hand"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "15",
+        "Kosten": "2200",
+        "Bauzeit": "70 s",
+        "Besatzung": "15",
+        "Energieschild": "3500",
+        "Trefferpunkte": "3350",
+        "Geschwindigkeit": "3.6",
+        "Bewaffnung": [
+            "1 Assault Concussion Missile",
+            "6 Heavy Megamasers",
+            "2 Medium Quad Megamasers",
+            "2 Heavy Dual Ion Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Citadel Cruiser",
+        "imageFilename": "Citadel_Cruiser.webp",
+        "Fraktion": [
+            "Corporate Sector Authority"
+        ],
+        "Funktion": "Corvette",
+        "Pop Verbrauch": "1",
+        "Kosten": "190",
+        "Bauzeit": "20 s",
+        "Besatzung": "1",
+        "Energieschild": "100",
+        "Trefferpunkte": "100",
+        "Geschwindigkeit": "5.0",
+        "Bewaffnung": [
+            "1 Fighter Laser Cannon",
+            "2 Fighter Ion Cannons",
+            "1x Light Concussion Missile Launcher"
+        ]
+    },
+    {
+        "Ship Name": "Crimson Victory-II Star Destroyer",
+        "imageFilename": "13X.webp",
+        "Fraktion": [
+            "Greater Maldrood"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "16",
+        "Kosten": "3200",
+        "Bauzeit": "60 s",
+        "Besatzung": "15",
+        "Energieschild": "3200",
+        "Trefferpunkte": "3792",
+        "Geschwindigkeit": "3.5",
+        "Bewaffnung": [
+            "4 Single Heavy Turbolasers",
+            "4 Dual Medium Turbolasers",
+            "2 Single Heavy Ion Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Customs Light Corvette",
+        "imageFilename": "Customs_Corvette.webp",
+        "Fraktion": [
+            "Greater Maldrood"
+        ],
+        "Funktion": "Corvette",
+        "Pop Verbrauch": "1",
+        "Kosten": "250",
+        "Bauzeit": "10 s",
+        "Besatzung": "1",
+        "Energieschild": "450",
+        "Trefferpunkte": "600",
+        "Geschwindigkeit": "5.25",
+        "Bewaffnung": [
+            "6 Dual Heavy Rapid Laser Cannons",
+            "Point-Defense System"
+        ]
+    },
+    {
+        "Ship Name": "DP20 Frigate",
+        "imageFilename": "DP20Gunship.webp",
+        "Fraktion": [
+            "New Republic",
+            "Corellians"
+        ],
+        "Funktion": "Corvette",
+        "Pop Verbrauch": "2",
+        "Kosten": "400",
+        "Bauzeit": "15 s",
+        "Besatzung": "1",
+        "Energieschild": "500",
+        "Trefferpunkte": "450",
+        "Geschwindigkeit": "4.75",
+        "Bewaffnung": [
+            "2 Light Concussion Missile Launchers",
+            "3 Dual Light Turbolasers",
+            "2 Quad Light Lasers"
+        ]
+    },
+    {
+        "Ship Name": "Dreadnaught Heavy Cruiser",
+        "imageFilename": "Dreadnaught.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Pentastar Alignment"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "7",
+        "Kosten": "1500",
+        "Bauzeit": "30 s",
+        "Besatzung": "20",
+        "Energieschild": "2200",
+        "Trefferpunkte": "2205",
+        "Geschwindigkeit": "2.75",
+        "Bewaffnung": [
+            "2 Dual Heavy Turbolasers",
+            "2 Single Light Turbolasers",
+            "2 Quad Light Laser Cannons",
+            "1 Concussion Missile Launcher"
+        ]
+    },
+    {
+        "Ship Name": "Eclipse Star Dreadnought",
+        "imageFilename": "Eclipse.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Pentastar Alignment",
+            "Eriadu Authority",
+            "Greater Maldrood",
+            "Zsinj's Empire"
+        ],
+        "Funktion": "Dreadnought",
+        "Pop Verbrauch": "220",
+        "Kosten": "48000",
+        "Bauzeit": "420 s",
+        "Besatzung": "300",
+        "Energieschild": "72000",
+        "Trefferpunkte": "99825",
+        "Geschwindigkeit": "1.25",
+        "Bewaffnung": [
+            "1 Superlaser",
+            "50 Dual Heavy Turbolasers",
+            "8 Single Medium Ion Cannons",
+            "55 Single Heavy Laser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Endurance Star Destroyer",
+        "imageFilename": "EndurancePreview.webp",
+        "Fraktion": [
+            "New Republic"
+        ],
+        "Funktion": "Capital",
+        "Pop Verbrauch": "26",
+        "Kosten": "5200",
+        "Bauzeit": "240 s",
+        "Besatzung": "10",
+        "Energieschild": "5000",
+        "Trefferpunkte": "4774",
+        "Geschwindigkeit": "2.0",
+        "Bewaffnung": [
+            "4 Single Medium Turbolasers",
+            "2 Single Medium Ion Cannons",
+            "2 Single Medium Laser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Enforcer Picket Ship",
+        "imageFilename": "EnforcerPicket.webp",
+        "Fraktion": [
+            "Pentastar Alignment"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "11",
+        "Kosten": "2200",
+        "Bauzeit": "40 s",
+        "Besatzung": "10",
+        "Energieschild": "2300",
+        "Trefferpunkte": "2200",
+        "Geschwindigkeit": "3.5",
+        "Bewaffnung": [
+            "3 Single Medium Turbolasers",
+            "2 Single Medium Ion Cannons",
+            "2 Quad Medium Laser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Etti Lighter",
+        "imageFilename": "EttiLighter.webp",
+        "Fraktion": [
+            "Corporate Sector Authority"
+        ],
+        "Funktion": "Corvette",
+        "Pop Verbrauch": "1",
+        "Kosten": "250",
+        "Bauzeit": "10 s",
+        "Besatzung": "1",
+        "Energieschild": "500",
+        "Trefferpunkte": "550",
+        "Geschwindigkeit": "2.0",
+        "Bewaffnung": [
+            "2 Quad Light Rapid Laser Cannons",
+            "Point-Defense System"
+        ]
+    },
+    {
+        "Ship Name": "Executor Star Dreadnought",
+        "imageFilename": "Executor.webp",
+        "Fraktion": [
+            "Galactic Empire"
+        ],
+        "Funktion": "Dreadnought",
+        "Pop Verbrauch": "210",
+        "Kosten": "48000",
+        "Bauzeit": "420 s",
+        "Besatzung": "300",
+        "Energieschild": "60000",
+        "Trefferpunkte": "84000",
+        "Geschwindigkeit": "1.25",
+        "Bewaffnung": [
+            "50 Single Heavy Turbolasers",
+            "50 Single Medium Turbolasers",
+            "25 Dual Heavy Ion Cannons",
+            "20 Quad Light Laser Cannons",
+            "10 Assault Concussion Missiles"
+        ]
+    },
+    {
+        "Ship Name": "Gladiator-I Star Destroyer",
+        "imageFilename": "GladiatorI.webp",
+        "Fraktion": [
+            "Eriadu Authority",
+            "Corporate Sector Authority"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "9",
+        "Kosten": "1800",
+        "Bauzeit": "40 s",
+        "Besatzung": "5",
+        "Energieschild": "1800",
+        "Trefferpunkte": "1935",
+        "Geschwindigkeit": "2.75",
+        "Bewaffnung": [
+            "2 Proton Torpedo Launchers",
+            "4 Light Dual Turbolasers",
+            "2 Single Medium Laser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Gozanti Cruiser",
+        "imageFilename": "Gozanti.webp",
+        "Fraktion": [
+            "Corporate Sector Authority"
+        ],
+        "Funktion": "Corvette",
+        "Pop Verbrauch": "1",
+        "Kosten": "225",
+        "Bauzeit": "20 s",
+        "Besatzung": "1",
+        "Energieschild": "200",
+        "Trefferpunkte": "200",
+        "Geschwindigkeit": "3.0",
+        "Bewaffnung": [
+            "2 Heavy Fighter Laser Cannons",
+            "2 Fighter Laser Cannons",
+            "1 Light Proton Torpedo Launcher"
+        ]
+    },
+    {
+        "Ship Name": "Guardian Light Cruiser",
+        "imageFilename": "Guardian_Cruiser.webp",
+        "Fraktion": [
+            "Greater Maldrood"
+        ],
+        "Funktion": "Corvette",
+        "Pop Verbrauch": "1",
+        "Kosten": "240",
+        "Bauzeit": "20 s",
+        "Besatzung": "1",
+        "Energieschild": "220",
+        "Trefferpunkte": "260",
+        "Geschwindigkeit": "3.75",
+        "Bewaffnung": [
+            "2 Fighter Turbolasers",
+            "2 Heavy Fighter Laser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Hapes Battle Dragon",
+        "imageFilename": "Hapes_Battle_Dragon.webp",
+        "Fraktion": [
+            "Hapes Consortium"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "17",
+        "Kosten": "3225",
+        "Bauzeit": "110 s",
+        "Besatzung": "20",
+        "Energieschild": "3300",
+        "Trefferpunkte": "2700",
+        "Geschwindigkeit": "2.7",
+        "Bewaffnung": [
+            "1 Proton Torpedo Launcher",
+            "1 Single Medium Turbolaser",
+            "1 Triple Medium Ion Cannon",
+            "1 Single Medium Ion Cannon"
+        ]
+    },
+    {
+        "Ship Name": "Immobilizer 418 Cruiser",
+        "imageFilename": "Immobilizer418.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Pentastar Alignment"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "7",
+        "Kosten": "2200",
+        "Bauzeit": "50 s",
+        "Besatzung": "10",
+        "Energieschild": "2400",
+        "Trefferpunkte": "2100",
+        "Geschwindigkeit": "2.0",
+        "Bewaffnung": [
+            "4 Quad Medium Laser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Imperial Escort Carrier",
+        "imageFilename": "Imperial_Escort_Carrier.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Pentastar Alignment",
+            "Zsinj's Empire",
+            "Greater Maldrood",
+            "Eriadu Authority"
+        ],
+        "Funktion": "Light Frigate",
+        "Pop Verbrauch": "8",
+        "Kosten": "1600",
+        "Bauzeit": "20 s",
+        "Besatzung": "1",
+        "Energieschild": "1300",
+        "Trefferpunkte": "1200",
+        "Geschwindigkeit": "3.75",
+        "Bewaffnung": [
+            "1 Assault Concussion Missile Launcher",
+            "1 Single Heavy Turbolaser",
+            "1 Dual Light Turbolaser",
+            "1 Single Medium Ion Cannon"
+        ]
+    },
+    {
+        "Ship Name": "Imperial-I Star Destroyer",
+        "imageFilename": "Imperial_I-class_Star_Destroyer.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Pentastar Alignment",
+            "Zsinj's Empire",
+            "Eriadu Authority",
+            "Greater Maldrood"
+        ],
+        "Funktion": "Capital",
+        "Pop Verbrauch": "31",
+        "Kosten": "6200",
+        "Bauzeit": "160 s",
+        "Besatzung": "30",
+        "Energieschild": "8000",
+        "Trefferpunkte": "8106",
+        "Geschwindigkeit": "3.0",
+        "Bewaffnung": [
+            "2 Dual Heavy Turbolasers",
+            "1 Triple Medium Turbolaser",
+            "6 Single Medium Turbolasers",
+            "2 Dual Heavy Ion Cannons",
+            "6 Single Medium Ion Cannons",
+            "2 Dual Light Laser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Imperial-II Star Destroyer",
+        "imageFilename": "Imperial_II-class_Star_Destroyer2.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Eriadu Authority",
+            "Zsinj's Empire"
+        ],
+        "Funktion": "Capital",
+        "Pop Verbrauch": "38",
+        "Kosten": "7600",
+        "Bauzeit": "160 s",
+        "Besatzung": "30",
+        "Energieschild": "8500",
+        "Trefferpunkte": "8106",
+        "Geschwindigkeit": "3.0",
+        "Bewaffnung": [
+            "4 Single Heavy Turbolasers",
+            "4 Octuple Medium Turbolasers",
+            "6 Single Medium Turbolasers",
+            "2 Single Light Turbolasers",
+            "2 Single Heavy Ion Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Interdictor Star Destroyer",
+        "imageFilename": "InterdictorSD.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Greater Maldrood"
+        ],
+        "Funktion": "Capital",
+        "Pop Verbrauch": "20",
+        "Kosten": "6200",
+        "Bauzeit": "160 s",
+        "Besatzung": "30",
+        "Energieschild": "6000",
+        "Trefferpunkte": "7925",
+        "Geschwindigkeit": "1.75",
+        "Bewaffnung": [
+            "2 Dual Heavy Turbolasers",
+            "2 Single Heavy Turbolasers",
+            "2 Quad Medium Turbolasers",
+            "2 Single Medium Ion Cannons"
+        ]
+    },
+    {
+        "Ship Name": "IPV-1 System Patrol Craft",
+        "imageFilename": "IPV1.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Eriadu Authority"
+        ],
+        "Funktion": "Corvette",
+        "Pop Verbrauch": "1",
+        "Kosten": "250",
+        "Bauzeit": "10 s",
+        "Besatzung": "1",
+        "Energieschild": "600",
+        "Trefferpunkte": "600",
+        "Geschwindigkeit": "5.0",
+        "Bewaffnung": [
+            "4 Dual Rapid Heavy Laser Cannons",
+            "1 Concussion Missile Launcher"
+        ]
+    },
+    {
+        "Ship Name": "Kuuro Gunship",
+        "imageFilename": "Kuuro.webp",
+        "Fraktion": [
+            "Empire of the Hand"
+        ],
+        "Funktion": "Corvette",
+        "Pop Verbrauch": "2",
+        "Kosten": "450",
+        "Bauzeit": "10 s",
+        "Besatzung": "1",
+        "Energieschild": "500",
+        "Trefferpunkte": "500",
+        "Geschwindigkeit": "4.0",
+        "Bewaffnung": [
+            "2 Assault Concussion Missile Launchers",
+            "2 Light Dual Turbolasers",
+            "2 Rapid Light Quad Lasers",
+            "Point-Defense System"
+        ]
+    },
+    {
+        "Ship Name": "Lancer Frigate",
+        "imageFilename": "Lancer.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Zsinj's Empire"
+        ],
+        "Funktion": "Light Frigate",
+        "Pop Verbrauch": "3",
+        "Kosten": "550",
+        "Bauzeit": "20 s",
+        "Besatzung": "1",
+        "Energieschild": "900",
+        "Trefferpunkte": "900",
+        "Geschwindigkeit": "1.75",
+        "Bewaffnung": [
+            "6 Quad Light Rapid Laser Cannons",
+            "Point-Defense System"
+        ]
+    },
+    {
+        "Ship Name": "Lucrehulk Battle Carrier",
+        "imageFilename": "LucrehulkCarrier.webp",
+        "Fraktion": [
+            "Corporate Sector Authority"
+        ],
+        "Funktion": "Battlecruiser",
+        "Pop Verbrauch": "80",
+        "Kosten": "16000",
+        "Bauzeit": "300 s",
+        "Besatzung": "50",
+        "Energieschild": "25000",
+        "Trefferpunkte": "23120",
+        "Geschwindigkeit": "1.5",
+        "Bewaffnung": [
+            "15 Single Medium Turbolasers",
+            "26 Dual Heavy Laser Cannons",
+            "18 Quad Medium Laser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "MC80 Liberty Cruiser",
+        "imageFilename": "MC80LibertyPreview.webp",
+        "Fraktion": [
+            "New Republic"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "22",
+        "Kosten": "4500",
+        "Bauzeit": "60 s",
+        "Besatzung": "10",
+        "Energieschild": "5000",
+        "Trefferpunkte": "2940",
+        "Geschwindigkeit": "2.5",
+        "Bewaffnung": [
+            "8 Single Medium Turbolasers",
+            "4 Single Medium Ion Cannons"
+        ]
+    },
+    {
+        "Ship Name": "MC80b Star Cruiser",
+        "imageFilename": "MC80BPreview.webp",
+        "Fraktion": [
+            "New Republic"
+        ],
+        "Funktion": "Capital",
+        "Pop Verbrauch": "25",
+        "Kosten": "5100",
+        "Bauzeit": "120 s",
+        "Besatzung": "30",
+        "Energieschild": "7000",
+        "Trefferpunkte": "5880",
+        "Geschwindigkeit": "2.0",
+        "Bewaffnung": [
+            "8 Single Heavy Turbolasers",
+            "4 Single Heavy Ion Cannons"
+        ]
+    },
+    {
+        "Ship Name": "MC90 Star Cruiser",
+        "imageFilename": "MC90.webp",
+        "Fraktion": [
+            "New Republic"
+        ],
+        "Funktion": "Capital",
+        "Pop Verbrauch": "33",
+        "Kosten": "7000",
+        "Bauzeit": "160 s",
+        "Besatzung": "30",
+        "Energieschild": "9000",
+        "Trefferpunkte": "7500",
+        "Geschwindigkeit": "2.0",
+        "Bewaffnung": [
+            "2 Proton Torpedo Launchers",
+            "8 Single Medium Turbolasers",
+            "3 Single Heavy Ion Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Modular Taskforce Combat Cruiser",
+        "imageFilename": "MTC_Combat.webp",
+        "Fraktion": [
+            "Corporate Sector Authority"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "14",
+        "Kosten": "3000",
+        "Bauzeit": "40 s",
+        "Besatzung": "10",
+        "Energieschild": "3000",
+        "Trefferpunkte": "3060",
+        "Geschwindigkeit": "2.75",
+        "Bewaffnung": [
+            "4 Dual Medium Turbolasers",
+            "4 Single Medium Turbolasers",
+            "2 Proton Torpedo Launchers"
+        ]
+    },
+    {
+        "Ship Name": "Munificent Star Frigate",
+        "imageFilename": "Munificent.webp",
+        "Fraktion": [],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "10",
+        "Kosten": "2100",
+        "Bauzeit": "40 s",
+        "Besatzung": "10",
+        "Energieschild": "2000",
+        "Trefferpunkte": "1586",
+        "Geschwindigkeit": "2.75",
+        "Bewaffnung": [
+            "1 Ultraheavy Turbolaser",
+            "4 Dual Light Turbolasers",
+            "2 Single Light Turbolasers",
+            "1 Dual Heavy Ion Cannon",
+            "4 Single Light Laser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Muqaraea Corvette",
+        "imageFilename": "Muqaraea_Corvette.webp",
+        "Fraktion": [
+            "Empire of the Hand"
+        ],
+        "Funktion": "Corvette",
+        "Pop Verbrauch": "2",
+        "Kosten": "350",
+        "Bauzeit": "10 s",
+        "Besatzung": "1",
+        "Energieschild": "800",
+        "Trefferpunkte": "900",
+        "Geschwindigkeit": "3.5",
+        "Bewaffnung": [
+            "5 Rapid Medium Dual Laser Cannons",
+            "Point-Defense System"
+        ]
+    },
+    {
+        "Ship Name": "Nebula Star Destroyer",
+        "imageFilename": "Nebula.webp",
+        "Fraktion": [
+            "New Republic"
+        ],
+        "Funktion": "Capital",
+        "Pop Verbrauch": "28",
+        "Kosten": "5900",
+        "Bauzeit": "120 s",
+        "Besatzung": "15",
+        "Energieschild": "6000",
+        "Trefferpunkte": "4194",
+        "Geschwindigkeit": "2.5",
+        "Bewaffnung": [
+            "1 Single Ultraheavy Turbolaser",
+            "4 Single Heavy Turbolasers",
+            "2 Triple Medium Turbolasers",
+            "6 Single Medium Turbolasers",
+            "2 Single Medium Ion Cannons",
+            "1 Assault Concussion Missile Launcher"
+        ]
+    },
+    {
+        "Ship Name": "Nebulon-B Frigate",
+        "imageFilename": "NebulonB.webp",
+        "Fraktion": [
+            "New Republic",
+            "Zsinj's Empire"
+        ],
+        "Funktion": "Light Frigate",
+        "Pop Verbrauch": "4",
+        "Kosten": "900",
+        "Bauzeit": "20 s",
+        "Besatzung": "1",
+        "Energieschild": "800",
+        "Trefferpunkte": "1000",
+        "Geschwindigkeit": "2.75",
+        "Bewaffnung": [
+            "2 Single Light Turbolasers",
+            "2 Single Rapid Medium Laser Cannons",
+            "Point-Defense (1 / 0.21s / 1.5km)"
+        ]
+    },
+    {
+        "Ship Name": "Phalanx Destroyer",
+        "imageFilename": "Phalanx_Destroyer.webp",
+        "Fraktion": [
+            "Empire of the Hand",
+            "Chiss Ascendancy"
+        ],
+        "Funktion": "Capital",
+        "Pop Verbrauch": "36",
+        "Kosten": "7700",
+        "Bauzeit": "160 s",
+        "Besatzung": "30",
+        "Energieschild": "7500",
+        "Trefferpunkte": "6500",
+        "Geschwindigkeit": "3.2",
+        "Bewaffnung": [
+            "2 Assault Concussion Missile Launchers",
+            "6 Heavy Dual Megamasers",
+            "2 Medium Quad Megamasers",
+            "4 Heavy Dual Ion Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Praetor-II Battlecruiser",
+        "imageFilename": "PraetorII.webp",
+        "Fraktion": [
+            "Eriadu Authority",
+            "Galactic Empire"
+        ],
+        "Funktion": "Battlecruiser",
+        "Pop Verbrauch": "106",
+        "Kosten": "21500",
+        "Bauzeit": "360 s",
+        "Besatzung": "150",
+        "Energieschild": "35000",
+        "Trefferpunkte": "38430",
+        "Geschwindigkeit": "2.0",
+        "Bewaffnung": [
+            "30 Quad Heavy Turbolasers",
+            "12 Dual Medium Turbolasers",
+            "5 Dual Medium Ion Cannons",
+            "12 Dual Medium Ion Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Procursator Star Destroyer",
+        "imageFilename": "Procursator.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Pentastar Alignment"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "19",
+        "Kosten": "3800",
+        "Bauzeit": "70 s",
+        "Besatzung": "15",
+        "Energieschild": "5000",
+        "Trefferpunkte": "5600",
+        "Geschwindigkeit": "3.25",
+        "Bewaffnung": [
+            "3 Triple Heavy Turbolasers",
+            "6 Quad Light Turbolasers",
+            "4 Dual Light Laser Cannons",
+            "2 Assault Concussion Missile Launchers"
+        ]
+    },
+    {
+        "Ship Name": "Prolipsi Interdictor",
+        "imageFilename": "Prolipsi.webp",
+        "Fraktion": [
+            "Empire of the Hand"
+        ],
+        "Funktion": "Light Frigate",
+        "Pop Verbrauch": "6",
+        "Kosten": "2600",
+        "Bauzeit": "35 s",
+        "Besatzung": "10",
+        "Energieschild": "2500",
+        "Trefferpunkte": "2400",
+        "Geschwindigkeit": "1.8",
+        "Bewaffnung": [
+            "2 Medium Megamasers",
+            "4 Medium Dual Maser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Raider-I Corvette",
+        "imageFilename": "RaiderI.webp",
+        "Fraktion": [
+            "Pentastar Alignment"
+        ],
+        "Funktion": "Corvette",
+        "Pop Verbrauch": "1",
+        "Kosten": "225",
+        "Bauzeit": "10 s",
+        "Besatzung": "1",
+        "Energieschild": "550",
+        "Trefferpunkte": "650",
+        "Geschwindigkeit": "5.0",
+        "Bewaffnung": [
+            "6 Dual Light Rapid Laser Cannons",
+            "2 Concussion Missiles"
+        ]
+    },
+    {
+        "Ship Name": "Rohkea Frigate",
+        "imageFilename": "Rohkea.webp",
+        "Fraktion": [
+            "Empire of the Hand"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "7",
+        "Kosten": "1600",
+        "Bauzeit": "35 s",
+        "Besatzung": "5",
+        "Energieschild": "1350",
+        "Trefferpunkte": "1150",
+        "Geschwindigkeit": "2.5",
+        "Bewaffnung": [
+            "4 Proton Torpedo Launchers",
+            "2 Medium Dual Turbolasers"
+        ]
+    },
+    {
+        "Ship Name": "Sacheen Light Escort",
+        "imageFilename": "Sacheen.webp",
+        "Fraktion": [
+            "New Republic"
+        ],
+        "Funktion": "Light Frigate",
+        "Pop Verbrauch": "6",
+        "Kosten": "1200",
+        "Bauzeit": "30 s",
+        "Besatzung": "5",
+        "Energieschild": "1200",
+        "Trefferpunkte": "1300",
+        "Geschwindigkeit": "3.75",
+        "Bewaffnung": [
+            "2 Single Heavy Turbolasers",
+            "1 Single Medium Ion Cannons",
+            "2 Single Light Laser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Secutor Star Destroyer",
+        "imageFilename": "Secutor.webp",
+        "Fraktion": [
+            "Pentastar Alignment"
+        ],
+        "Funktion": "Capital",
+        "Pop Verbrauch": "50",
+        "Kosten": "10000",
+        "Bauzeit": "240 s",
+        "Besatzung": "35",
+        "Energieschild": "8500",
+        "Trefferpunkte": "9660",
+        "Geschwindigkeit": "3.0",
+        "Bewaffnung": [
+            "3 Dual Heavy Turbolasers",
+            "12 Quad Medium Turbolasers",
+            "3 Quad Light Turbolasers",
+            "3 Dual Heavy Ion Cannons",
+            "14 Dual Light Laser Cannons",
+            "6 Light Proton Torpedo Launchers"
+        ]
+    },
+    {
+        "Ship Name": "Sovereign Star Dreadnought",
+        "imageFilename": "Sovereign.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Pentastar Alignment",
+            "Eriadu Authority",
+            "Greater Maldrood",
+            "Zsinj's Empire"
+        ],
+        "Funktion": "Dreadnought",
+        "Pop Verbrauch": "190",
+        "Kosten": "35000",
+        "Bauzeit": "420 s",
+        "Besatzung": "300",
+        "Energieschild": "62500",
+        "Trefferpunkte": "69540",
+        "Geschwindigkeit": "1.25",
+        "Bewaffnung": [
+            "1 Superlaser",
+            "50 Dual Heavy Turbolasers",
+            "8 Single Medium Ion Cannons",
+            "50 Single Heavy Laser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Strike Cruiser",
+        "imageFilename": "StrikeCruiser.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Greater Maldrood"
+        ],
+        "Funktion": "Light Frigate",
+        "Pop Verbrauch": "7",
+        "Kosten": "1400",
+        "Bauzeit": "20 s",
+        "Besatzung": "10",
+        "Energieschild": "",
+        "Trefferpunkte": "1500",
+        "Geschwindigkeit": "1500",
+        "Bewaffnung": [
+            "2 Single Medium Turbolasers",
+            "2 Single Light Turbolasers",
+            "2 Single Light Ion Cannons",
+            "1 Assault Concussion Missile Launcher"
+        ]
+    },
+    {
+        "Ship Name": "Syndic Destroyer",
+        "imageFilename": "Syndic_SD.webp",
+        "Fraktion": [
+            "Empire of the Hand",
+            "Chiss Ascendancy"
+        ],
+        "Funktion": "Capital",
+        "Pop Verbrauch": "27",
+        "Kosten": "5500",
+        "Bauzeit": "120 s",
+        "Besatzung": "20",
+        "Energieschild": "6500",
+        "Trefferpunkte": "5500",
+        "Geschwindigkeit": "3.5",
+        "Bewaffnung": [
+            "6 Medium Dual Megamasers",
+            "2 Heavy Quad Ion Cannons",
+            "2 Heavy Ion Cannons",
+            "2 Medium Dual Maser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Tector Star Destroyer",
+        "imageFilename": "Tector-class_Star_Destroyer.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Greater Maldrood",
+            "Pentastar Alignment"
+        ],
+        "Funktion": "Capital",
+        "Pop Verbrauch": "32",
+        "Kosten": "6400",
+        "Bauzeit": "160 s",
+        "Besatzung": "30",
+        "Energieschild": "9000",
+        "Trefferpunkte": "9218",
+        "Geschwindigkeit": "3.0",
+        "Bewaffnung": [
+            "14 Single Medium Turbolasers",
+            "2 Single Light Turbolasers",
+            "3 Single Medium Laser Cannons",
+            "1 Assault Concussion Missile Launcher",
+            "1 Concussion Missile Launcher"
+        ]
+    },
+    {
+        "Ship Name": "Ton-Falk Escort Carrier",
+        "imageFilename": "TonFalkEscortCarrier.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Pentastar Alignment"
+        ],
+        "Funktion": "Light Frigate",
+        "Pop Verbrauch": "9",
+        "Kosten": "1800",
+        "Bauzeit": "30 s",
+        "Besatzung": "1",
+        "Energieschild": "1600",
+        "Trefferpunkte": "1770",
+        "Geschwindigkeit": "3.75",
+        "Bewaffnung": [
+            "4 Dual Medium Laser Cannons",
+            "1 Concussion Missile Launcher"
+        ]
+    },
+    {
+        "Ship Name": "Venator Star Destroyer",
+        "imageFilename": "Venator-class_Star_Destroyer.webp",
+        "Fraktion": [
+            "Pentastar Alignment"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "21",
+        "Kosten": "4200",
+        "Bauzeit": "60 s",
+        "Besatzung": "10",
+        "Energieschild": "3000",
+        "Trefferpunkte": "3240",
+        "Geschwindigkeit": "3.25",
+        "Bewaffnung": [
+            "4 Dual Heavy Turbolasers",
+            "2 Dual Medium Turbolasers",
+            "2 Single Medium Turbolasers",
+            "2 Dual Light Laser Cannons",
+            "2 Proton Torpedo Launchers"
+        ]
+    },
+    {
+        "Ship Name": "Vengeance Star Dreadnought",
+        "imageFilename": "Vengeance.webp",
+        "Fraktion": [
+            "Zsinj's Empire"
+        ],
+        "Funktion": "Dreadnought",
+        "Pop Verbrauch": "170",
+        "Kosten": "38000",
+        "Bauzeit": "420 s",
+        "Besatzung": "300",
+        "Energieschild": "60000",
+        "Trefferpunkte": "64800",
+        "Geschwindigkeit": "1.25",
+        "Bewaffnung": [
+            "10 Assault Concussion Missile Launchers",
+            "25 Single Heavy Turbolasers",
+            "25 Single Medium Turbolasers",
+            "25 Dual Heavy Ion Cannons",
+            "20 Quad Light Laser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Victory-I Star Destroyer",
+        "imageFilename": "Victory_I-class_Star_Destroyer.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Corporate Sector Authority",
+            "Greater Maldrood",
+            "Eriadu Authority"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "15",
+        "Kosten": "3000",
+        "Bauzeit": "60 s",
+        "Besatzung": "15",
+        "Energieschild": "3200",
+        "Trefferpunkte": "3600",
+        "Geschwindigkeit": "2.5",
+        "Bewaffnung": [
+            "2 Quad Light Turbolasers",
+            "4 Dual Light Turbolasers",
+            "4 Assault Concussion Missile Launchers"
+        ]
+    },
+    {
+        "Ship Name": "Victory-II Star Destroyer",
+        "imageFilename": "VictoryIISD.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Zsinj's Empire"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "16",
+        "Kosten": "3200",
+        "Bauzeit": "60 s",
+        "Besatzung": "15",
+        "Energieschild": "3200",
+        "Trefferpunkte": "3792",
+        "Geschwindigkeit": "3.5",
+        "Bewaffnung": [
+            "4 Single Heavy Turbolasers",
+            "4 Dual Medium Turbolasers",
+            "2 Single Heavy Ion Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Vigil Corvette",
+        "imageFilename": "Vigil.webp",
+        "Fraktion": [
+            "Greater Maldrood"
+        ],
+        "Funktion": "Light Frigate",
+        "Pop Verbrauch": "4",
+        "Kosten": "800",
+        "Bauzeit": "20 s",
+        "Besatzung": "1",
+        "Energieschild": "1200",
+        "Trefferpunkte": "1200",
+        "Geschwindigkeit": "3.25",
+        "Bewaffnung": [
+            "3 Dual Medium Turbolasers",
+            "2 Single Light Turbolasers",
+            "5 Dual Heavy Laser Cannons"
+        ]
+    },
+    {
+        "Ship Name": "Vindicator Heavy Cruiser",
+        "imageFilename": "Vindicator.webp",
+        "Fraktion": [
+            "Galactic Empire",
+            "Greater Maldrood"
+        ],
+        "Funktion": "Heavy Frigate",
+        "Pop Verbrauch": "11",
+        "Kosten": "2200",
+        "Bauzeit": "40 s",
+        "Besatzung": "10",
+        "Energieschild": "2100",
+        "Trefferpunkte": "2160",
+        "Geschwindigkeit": "2.75",
+        "Bewaffnung": [
+            "2 Single Light Turbolasers",
+            "2 Single Medium Ion Cannons",
+            "2 Quad Medium Laser Cannons",
+            "1 Single Medium Laser Cannon"
+        ]
+    },
+    {
+        "Ship Name": "Viscount Star Defender",
+        "imageFilename": "Viscount_Star.webp",
+        "Fraktion": [
+            "New Republic"
+        ],
+        "Funktion": "Dreadnought",
+        "Pop Verbrauch": "230",
+        "Kosten": "50000",
+        "Bauzeit": "420 s",
+        "Besatzung": "300",
+        "Energieschild": "90000",
+        "Trefferpunkte": "100200",
+        "Geschwindigkeit": "1.0",
+        "Bewaffnung": [
+            "50 Single Heavy Turbolasers",
+            "50 Single Medium Turbolasers",
+            "30 Dual Heavy Ion Cannons",
+            "20 Quad Light Laser Cannons",
+            "10 Assault Concussion Missile Launchers"
+        ]
+    }
+]
